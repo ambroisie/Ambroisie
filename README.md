@@ -7,7 +7,7 @@ my projects on my [Gitea instance](https://gitea.belanyi.fr).
 
 You can find my blog [here](https://belanyi.fr), and my CV
 [there](https://cv.belanyi.fr/en.pdf)
-(or in [French here](https://cv.belanyi.fr/fr.pdf)
+(or in [French here](https://cv.belanyi.fr/fr.pdf))
 
 ## About me
 
