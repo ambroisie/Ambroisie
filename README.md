@@ -2,8 +2,9 @@
 
 Hello there, I'm Bruno.
 
-This GitHub profile is pretty empty, that's because I usually like to host
-my projects on my [Gitea instance](https://gitea.belanyi.fr).
+This GitHub profile is merely a mirror for my self-hosted [Gitea
+instance](https://gitea.belanyi.fr). This is done automatically using
+[Lohr](https://github.com/alarsyo/lohr).
 
 You can find my blog [here](https://belanyi.fr), and my CV
 [there](https://cv.belanyi.fr/en.pdf)
